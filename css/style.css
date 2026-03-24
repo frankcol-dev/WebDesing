@@ -31,6 +31,9 @@ body {
 /* =========================
    LINKS
 ========================= */
+.contact{
+  text-align: center;
+}
 .contact__text a {
   color: var(--primary-color);
   text-decoration: none;
